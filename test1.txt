@@ -1,0 +1,480 @@
+
+Current Time:0
+    Waiting Tasks:
+    (4,3,3)  (3,4,3)  (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:1
+    Waiting Tasks:
+    (4,3,3)  (3,4,3)  (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:2
+    Waiting Tasks:
+    (4,3,3)  (3,4,3)  (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:3
+    Waiting Tasks:
+    (3,4,3)  (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: (4,3,3) 
+    Queue:2
+        Tasks: 
+
+Current Time:4
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: (4,3,2) 
+    Queue:2
+        Tasks: (3,4,3) 
+
+Current Time:5
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: (4,3,1) 
+    Queue:2
+        Tasks: (3,4,2) 
+
+Current Time:6
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: (3,4,1) 
+
+Current Time:7
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:8
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:9
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:10
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:11
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:12
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:13
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:14
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:15
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:16
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:17
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:18
+    Waiting Tasks:
+    (1,19,3)  (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:19
+    Waiting Tasks:
+    (2,27,2)  
+    Queue:1
+        Tasks: (1,19,3) 
+    Queue:2
+        Tasks: 
+
+Current Time:20
+    Waiting Tasks:
+    (2,27,2)  
+    Queue:1
+        Tasks: (1,19,2) 
+    Queue:2
+        Tasks: 
+
+Current Time:21
+    Waiting Tasks:
+    (2,27,2)  
+    Queue:1
+        Tasks: (1,19,1) 
+    Queue:2
+        Tasks: 
+
+Current Time:22
+    Waiting Tasks:
+    (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:23
+    Waiting Tasks:
+    (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:24
+    Waiting Tasks:
+    (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:25
+    Waiting Tasks:
+    (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:26
+    Waiting Tasks:
+    (2,27,2)  
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:27
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: (2,27,2) 
+    Queue:2
+        Tasks: 
+
+Current Time:28
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: (2,27,1) 
+    Queue:2
+        Tasks: 
+
+Current Time:29
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:30
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:31
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:32
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:33
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:34
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:35
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:36
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:37
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:38
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:39
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:40
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:41
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:42
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:43
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:44
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:45
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:46
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:47
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:48
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:49
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:50
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:51
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:52
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:53
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:54
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:55
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:56
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:57
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:58
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
+
+Current Time:59
+    Waiting Tasks:
+    
+    Queue:1
+        Tasks: 
+    Queue:2
+        Tasks: 
